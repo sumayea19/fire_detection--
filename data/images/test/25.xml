@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>25.jpg</filename>
+	<path>G:\sumayea\IoT presentations\iot and fire detection\project\object_detection_demo-master\data\images\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>3</ymin>
+			<xmax>647</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>
